@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    overflow: hidden;
+    flex-direction: column;
+    height: 100vh;
+    font-family: sans-serif;
+    background: aliceblue;
+    background: linear-gradient(to right, yellow, green);
+}
+
